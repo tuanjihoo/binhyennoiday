@@ -1,0 +1,15 @@
+.wc-form tr:nth-child(even){background:#fff}.wc-form tr:nth-child(odd){background:#fbfbfb}.form-table.wc-form-table tr{background:transparent}.wpdiscuz_options_page .wc-phrases-settings-form input[type="text"],.wpdiscuz_options_page .wc-phrases-settings-form textarea{width:300px}.wpdiscuz_wrap {	height: 50px;width: 100%;}.wpdiscuz_progressbar {height: 50px;text-align: center;background: #f00;width: 0;}
+.wpdiscuz-share-buttons {display: inline-block; width: 18px; height: 18px;}
+.wc-form input.wc_share_button {display: none;}
+.wc-form input[type="text"].regular-text{ width:160px; }
+.wc-form .wpdiscuz-option-title {vertical-align: middle;}
+.wc-form .wc-hidden {display: none;}
+.wc-form .resp-tabs-container.integrationsChild {margin-bottom: 5px;}
+
+/*addons*/
+/* #menu-comments ul > li:nth-child(3) a{ color:#25ACEA!important; text-shadow: 1px 1px 1px #000; } */
+.wpdiscuz_addons_page .wpdiscuz-addons-wrapper {box-sizing: border-box;}
+.wpdiscuz_addons_page .wpdiscuz-addon-block {width: 32%; height: 250px; max-height: 250px; float: left; margin-left: 1%; margin-bottom: 10px; background: #eee;}
+.wpdiscuz_addons_page .wpdiscuz-addon-block .addon-thumb {float: left; margin: 10px;}
+.wpdiscuz_addons_page .wpdiscuz-addon-block .addon-info {display: inline; margin-top: 10px;}
+.wpdiscuz_addons_page .addon-isactive {margin: 20px;}
